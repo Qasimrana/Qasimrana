@@ -1,4 +1,4 @@
-                                              Hi 👋, I'm Passionate Full Stack Web Application Developer
+                              Hi 👋, I'm Passionate Full Stack Web Application Developer
 
 Having Experience and expertise on different products like Medical domain EMR systems, HRM, shipping Logistics, and Asset Management systems, Inventory System, Social Currant.
 

@@ -1,16 +1,15 @@
-### Hi there 👋
+                                              Hi 👋, I'm Passionate Full Stack Web Application Developer
 
-<!--
-**Qasimrana/qasimrana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Having Experience and expertise on different products like Medical domain EMR systems, HRM, shipping Logistics, and Asset Management systems, Inventory System, Social Currant.
 
-Here are some ideas to get you started:
+A passionate full stack developer from Pakistan Qasimrana
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 I’m currently working on Full Stack Development
+
+🌱 I’m currently learning Artificial Intelligence.
+
+👯 I’m looking to collaborate on Open Source Projects
+
+👨‍💻 All of my projects are available at https://github.com/Qasimrana
+
+💬 Ask me about JAVA, Django, VueJS, ReactJS, svelte, AWS, WordPress.

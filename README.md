@@ -9,11 +9,11 @@
 
 - 🔭 I’m currently working on **Full Stack Development**
 
-- 🌱 I’m currently learning **Artificial Intelligence**
+- 🌱 I’m currently learning **FormKit**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/qasimrana](https://github.com/qasimrana)
 
-- 💬 Ask me about **JAVA, Django, VueJS, ReactJS, svelte, AWS, WordPress**
+- 💬 Ask me about **JAVA, Django, VueJS, ReactJS, AWS, WordPress**
 
